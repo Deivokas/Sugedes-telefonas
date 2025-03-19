@@ -70,7 +70,7 @@ PR klausia:
 .
 
 DR atsako:
-- ... .
+- Lemonoj vis tiek pigiau.
 
 .
 
@@ -105,7 +105,7 @@ PR atsako:
 .
 
 DR klausia:
-- ... ?
+- Kada vaziuosi i Gariunus?
 
 .
 
